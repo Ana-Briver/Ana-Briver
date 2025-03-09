@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ana-Briver
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in development
 
 <!---
 Ana-Briver/Ana-Briver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
